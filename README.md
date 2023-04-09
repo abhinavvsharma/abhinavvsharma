@@ -5,7 +5,7 @@
 &#9655; 🔭 I’m currently working on a Video Analytics system for Edge Devices @ [PACE Lab, Stony Brook University](http://www.pace.cs.stonybrook.edu/).  <br />
 &#9655; 🌱 I’m currently learning Advanced Operating Systems and MLOps. <br />
 &#9655; 💬 Ask me about Computer Vision, Deep Learning and Machine Learning on Edge.<br />
-&#9655; 📫 How to reach me: [✉](mailto:abhinav.sharma.1@stonybrook.edu) or [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>](mailto:abhinav.sharma.1@stonybrook.edu)<br />
+&#9655; 📫 How to reach me: [✉](mailto:abhinav.sharma.1@stonybrook.edu) or [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="20" /></a>](mailto:abhinav.sharma.1@stonybrook.edu)<br />
 
 <!--
 **abhinavvsharma/abhinavvsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
