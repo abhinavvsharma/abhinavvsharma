@@ -1,8 +1,12 @@
 <h1> Hi there 👋, I'm Abhinav </h1?
 
 ###
-&#9655; I'm pursuing Master’s degree in Computer Science at Stony Brook University, New York &#128214;__
-&#9655; 
+&#9655; &#128214; I'm pursuing Master’s degree in Computer Science at Stony Brook University, New York. <br />
+&#9655; 🔭 I’m currently working on a Video Analytics system for Edge Devices @ [PACE Lab, Stony Brook University](http://www.pace.cs.stonybrook.edu/).  <br />
+&#9655; 🌱 I’m currently learning Advanced Operating Systems and MLOps. <br />
+&#9655; 💬 Ask me about Computer Vision, Deep Learning and Machine Learning on Edge.<br />
+&#9655; 📫 How to reach me: [abhinav.sharma.1@stonybrook.edu](mailto:abhinav.sharma.1@stonybrook.edu) <br />
+
 <!--
 **abhinavvsharma/abhinavvsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
