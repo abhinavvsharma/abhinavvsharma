@@ -1,6 +1,7 @@
 <h1> Hi there 👋, I'm Abhinav </h1?
 
 ###
+&#9655; I'm pursuing Master’s degree in Computer Science at Stony Brook University, New York &#128214;__
 &#9655; 
 <!--
 **abhinavvsharma/abhinavvsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
