@@ -1,4 +1,4 @@
-<h1> Hi there 👋, I'm Abhinav </h1?
+<h1> Hi there 👋, I'm Abhinav </h1> 
 
 ### About Me - 
 &#9655; &#128214; I'm pursuing Master’s degree in Computer Science at Stony Brook University, New York. <br />
