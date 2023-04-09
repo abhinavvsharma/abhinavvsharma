@@ -1,8 +1,7 @@
 <h1> Hi there 👋, I'm Abhinav </h1?
 
 ###
-&#9654 
-&copy  
+&#9654; 
 <!--
 **abhinavvsharma/abhinavvsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
